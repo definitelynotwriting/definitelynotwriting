@@ -1,0 +1,2 @@
+- 👋 Hi, definitelynotwriting / defnotwriting / dnw here
+- 👀 Primarily a webdev with ColdFusion knowledge
